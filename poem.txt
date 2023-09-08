@@ -5,6 +5,7 @@ Rede
 Pink
 Orange
 Green
+Indigo
 Unicorn
 Yellow
 Blue
